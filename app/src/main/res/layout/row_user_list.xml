@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@color/colorPrimaryDark"
+        android:singleLine="true"
         android:id="@+id/row_user_name"
         android:layout_alignBottom="@+id/row_user_avatar"
         android:layout_toRightOf="@+id/row_user_avatar"
